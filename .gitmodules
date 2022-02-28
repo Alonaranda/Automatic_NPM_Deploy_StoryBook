@@ -1,0 +1,3 @@
+[submodule "./docs"] 
+   path = /docs
+   url = https://github.com/Alonaranda/Automatic_NPM_Deploy_StoryBook
