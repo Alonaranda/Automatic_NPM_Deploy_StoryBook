@@ -27,8 +27,3 @@ Cambiar el nombre de una carpeta que se crea:
 
  "build": "build-storybook -o docs"
 
-Github token:
-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
-
-npm Tokne:
-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
